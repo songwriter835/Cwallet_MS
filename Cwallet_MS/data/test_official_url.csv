@@ -1,0 +1,4 @@
+﻿用例编号,用例标题,请求地址,请求方式,响应状态码
+Ap-of-0001,cwallet生产环境，能够正常访问,https://cwallet.com/,Get,200
+Ap-of-0002,cwallet灰度环境，能够正常访问,https://my-beta.cwallet.com,Get,200
+Ap-of-0003,cwallet测试环境，能够正常访问,https://f4658f7abeta-my.cwallet.com,Get,200
